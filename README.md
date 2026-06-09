@@ -27,18 +27,18 @@ To ensure consistency and comparative rigor across all experiments, relationship
 
 | Relationship Label |    Count    | Percentage (%) |
 | :----------------- | :---------: | :------------: |
-| Sibling            |   130,942   |     46.88%     |
-| Uncle/Aunt         |    44,040   |     15.77%     |
-| Mother             |    40,108   |     14.36%     |
-| Cousin             |    17,758   |      6.36%     |
-| Nephew/Niece       |    17,684   |      6.33%     |
-| Child              |    16,902   |      6.05%     |
-| Grandparent        |    8,472    |      3.03%     |
-| Spouse             |    1,496    |      0.54%     |
-| Grandchild         |    1,042    |      0.37%     |
-| Father             |     425     |      0.15%     |
-| Parent-in-law      |     421     |      0.15%     |
-| **TOTAL**          | **279,290** |   **100.00%**  |
+| Sibling            |   131,085   |     46.92%     |
+| Uncle/Aunt         |    44,111   |     15.79%     |
+| Mother             |    40,173   |     14.38%     |
+| Cousin             |    17,733   |      6.35%     |
+| Nephew/Niece       |    17,662   |      6.32%     |
+| Child              |    16,809   |      6.02%     |
+| Grandparent        |    8,445    |      3.02%     |
+| Spouse             |    1,505    |      0.54%     |
+| Grandchild         |    1,030    |      0.37%     |
+| Father             |     429     |      0.15%     |
+| Parent-in-law      |     424     |      0.15%     |
+| **TOTAL**          | **279,406** |   **100.00%**  |
 
 ### 2. IPUMS Iceland (1729)
 
