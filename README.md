@@ -112,9 +112,3 @@ To ensure consistency and comparative rigor across all experiments, relationship
 | Mother | 20,770 | 7.85% |
 | Other Relative | 8,079 | 3.05% |
 | **TOTAL** | **264,507** | **100.00%** |
-
----
-
-## Setup and Dependencies
-
-The scripts are optimized for running in Python 3.10+ environments with high RAM availability (minimum 32GB recommended for initial data parsing and pairwise matrix explosions).
